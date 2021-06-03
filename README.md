@@ -124,4 +124,4 @@ We have a list of [good first issues][gfi] that contain bugs which have a relati
 
 Larger discussions and proposals are discussed in [**@react-native-community/group member/team45 in programing hero team member**][repo-meta].
 
-[repo-meta]: https://github.com/react-native-community/discussions-and-proposals
+[live-link]: https://expo.io/@jamil_expo/social-app-react-native?fbclid=IwAR3N3gfgtFdPL9AGLVI3w_IrMt1y9pzCIEGOfBoMSBg3KhnRZwKbTaMXPyE
