@@ -85,7 +85,7 @@ The full documentation for React Native can be found on our [website][docs].
 
 The React Native documentation discusses components, APIs, and topics that are specific to React Native. For further documentation on the React API that is shared between React Native and React DOM, refer to the [React documentation][r-docs].
 
-The source for the React Native documentation and website is hosted on a separate repo, [**@facebook/react-native-website**][repo-website].
+The source for the React Native documentation and website is hosted on a separate repo, [**@social/react-native-website**][repo-website].
 
 [docs]: https://reactnative.dev/docs/getting-started
 [r-docs]: https://reactjs.org/docs/getting-started.html
@@ -110,9 +110,7 @@ Read our [**Contributing Guide**][contribute] to learn about our development pro
 
 ### [Open Source Roadmap][roadmap]
 
-You can learn more about our vision for React Native in the [**Roadmap**][roadmap].
-
-[roadmap]: https://github.com/facebook/react-native/wiki/Roadmap
+You can learn more about our vision for React Native in the youtube
 
 ### Good First Issues
 
@@ -124,4 +122,4 @@ We have a list of [good first issues][gfi] that contain bugs which have a relati
 
 Larger discussions and proposals are discussed in [**@react-native-community/group member/team45 in programing hero team member**][repo-meta].
 
-[live-link]: https://expo.io/@jamil_expo/social-app-react-native?fbclid=IwAR3N3gfgtFdPL9AGLVI3w_IrMt1y9pzCIEGOfBoMSBg3KhnRZwKbTaMXPyE
+[live-link]: # https://expo.io/@jamil_expo/social-app-react-native?fbclid=IwAR3N3gfgtFdPL9AGLVI3w_IrMt1y9pzCIEGOfBoMSBg3KhnRZwKbTaMXPyE
